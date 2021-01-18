@@ -2,7 +2,7 @@
 title: "Как присоедениться к Akatsuki"
 reference_version: 7dc4cffa956ec184a9bb8c7c2e27e39a
 ---
-- [Зарегестрируйте](http://akatsuki.pw/index.php?p=3) аккаунт.   
+- [Зарегистрируйте](http://akatsuki.pw/index.php?p=3) аккаунт.   
 - Скачайте [Переключатель сервера Akatsuki](http://akatsuki.pw/static/switcher.exe).
 - **Выключите свой антивирус** (Некоторые антивирусы могут вызвать проблемы)  
 - **Выключите ваш брандмауэр** (Брандмауэры могут вызвать проблемы)  
